@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "features": "Recursos",
+    "pricing": "Preços",
+    "faq": "FAQ",
+    "login": "Entrar",
+    "signup": "Inscrever-se",
+    "dashboard": "Painel",
+    "analytics": "Análises",
+    "meeting_analysis": "Análise de Reunião",
+    "settings": "Configurações",
+    "billing": "Faturamento"
+  },
+  "header": {
+    "go_to_dashboard": "Ir para o Painel"
+  },
+  "app_layout": {
+    "logout": "Sair",
+    "support": "Suporte"
+  },
+  "billing_page": {
+    "title": "Faturamento",
+    "description": "Gerencie sua assinatura e veja seu histórico de pagamentos.",
+    "current_plan": "Plano Atual",
+    "payment_method": "Método de Pagamento",
+    "billing_history": "Histórico de Faturamento",
+    "invoice_id": "ID da Fatura",
+    "date": "Data",
+    "amount": "Valor",
+    "status": "Status",
+    "download": "Baixar",
+    "no_invoices": "Nenhuma fatura encontrada.",
+    "card_ending_in": "Cartão com final"
+  },
+  "language_toggle": {
+    "change_language": "Mudar idioma"
+  }
+}

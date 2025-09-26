@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "dashboard": "Tableau de bord",
+    "analytics": "Analyses",
+    "meeting_analysis": "Analyse de réunion",
+    "settings": "Paramètres",
+    "billing": "Facturation"
+  },
+  "header": {
+    "go_to_dashboard": "Aller au tableau de bord"
+  },
+  "app_layout": {
+    "logout": "Déconnexion",
+    "support": "Support"
+  },
+  "billing_page": {
+    "title": "Facturation",
+    "description": "Gérez votre abonnement et consultez votre historique de paiement.",
+    "current_plan": "Plan Actuel",
+    "payment_method": "Moyen de Paiement",
+    "billing_history": "Historique de Facturation",
+    "invoice_id": "ID de Facture",
+    "date": "Date",
+    "amount": "Montant",
+    "status": "Statut",
+    "download": "Télécharger",
+    "no_invoices": "Aucune facture trouvée.",
+    "card_ending_in": "Carte se terminant par"
+  },
+  "language_toggle": {
+    "change_language": "Changer de langue"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "meeting_analysis": "Meeting Analysis",
+    "settings": "Settings",
+    "billing": "Billing"
+  },
+  "header": {
+    "go_to_dashboard": "Go to Dashboard"
+  },
+  "app_layout": {
+    "logout": "Logout",
+    "support": "Support"
+  },
+  "billing_page": {
+    "title": "Billing",
+    "description": "Manage your subscription and view your payment history.",
+    "current_plan": "Current Plan",
+    "payment_method": "Payment Method",
+    "billing_history": "Billing History",
+    "invoice_id": "Invoice ID",
+    "date": "Date",
+    "amount": "Amount",
+    "status": "Status",
+    "download": "Download",
+    "no_invoices": "No invoices found.",
+    "card_ending_in": "Card ending in"
+  },
+  "language_toggle": {
+    "change_language": "Change language"
+  }
+}

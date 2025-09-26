@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "features": "Características",
+    "pricing": "Precios",
+    "faq": "FAQ",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "dashboard": "Panel",
+    "analytics": "Análisis",
+    "meeting_analysis": "Análisis de Reunión",
+    "settings": "Configuración",
+    "billing": "Facturación"
+  },
+  "header": {
+    "go_to_dashboard": "Ir al Panel"
+  },
+  "app_layout": {
+    "logout": "Cerrar Sesión",
+    "support": "Soporte"
+  },
+  "billing_page": {
+    "title": "Facturación",
+    "description": "Administre su suscripción y vea su historial de pagos.",
+    "current_plan": "Plan Actual",
+    "payment_method": "Método de Pago",
+    "billing_history": "Historial de Facturación",
+    "invoice_id": "ID de Factura",
+    "date": "Fecha",
+    "amount": "Monto",
+    "status": "Estado",
+    "download": "Descargar",
+    "no_invoices": "No se encontraron facturas.",
+    "card_ending_in": "Tarjeta que termina en"
+  },
+  "language_toggle": {
+    "change_language": "Cambiar idioma"
+  }
+}
