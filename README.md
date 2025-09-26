@@ -2,7 +2,7 @@
 
 An AI-powered SaaS platform for executive management providing intelligent dashboards, decision support, and performance monitoring. Built on Cloudflare Workers and Durable Objects.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/matsos10/generated-app-20250926-180600)
 
 ---
 
@@ -111,7 +111,7 @@ This project is designed for seamless deployment to the Cloudflare network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/matsos10/generated-app-20250926-180600)
 
 ## Project Structure
 
